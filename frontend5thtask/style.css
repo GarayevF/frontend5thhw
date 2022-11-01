@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+#logo{
+    width: 10%;
+    float: left;
+    padding-top: 1rem;
+}
+
+#navbar{
+    text-align: center;
+    padding: 1.5rem 0;
+    float: left;
+    width: 80%;
+}
+
+#navbar a{
+    padding: 25px 15px;
+    color: #fff;
+}
+
+#hamburger{
+    width: 10%;
+    text-align: right;
+    float: left;
+    padding-top: 1rem;
+    font-size: 30px;
+}
+
+#logo img{
+    width: 100%;
+    vertical-align: bottom;
+}
+
+.header{
+    padding: 20px 4rem;
+    position: fixed;
+    width: 100%;
+    overflow: auto;
+    background-color: #9a9a9a60;
+}
+
+.content{
+    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-2.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 18rem 0;
+    text-align: center;
+}
+
+.content h1{
+    color: #fff;
+    font-size: 50px;
+    margin-bottom: 35px;
+}
+
+.content h3{
+    color: #fff;
+    font-size: 20px;
+}
+
+.proposals{
+    padding: 60px 0;
+    margin: 0 auto;
+}
+
+.proposals .textdiv{
+    text-align: center;
+}
+
+
+
+.proposals h3{
+    font-size: 14px;
+    color: #9a9a9a;
+    margin-bottom: 20px;
+}
+
+.proposals h1{
+    font-size: 36px;
+    color: #555555;
+    margin-bottom: 35px;
+}
+
+.cardrow{
+    overflow: auto;
+    margin-bottom: 30px;
+}
+
+
+.card{
+    width: 29%;
+    float: left;
+}
+
+.card img{
+    width: 100%;
+    vertical-align: bottom;
+}
+
+.imgdiv{
+    padding-left: 7rem;
+}
